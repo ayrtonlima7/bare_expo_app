@@ -2,6 +2,7 @@
   "expo": {
     "name": "bare_boilerplate",
     "slug": "bare_boilerplate",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "scheme": "bare_boilerplate"
   }
 }
